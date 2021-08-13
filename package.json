@@ -1,8 +1,8 @@
 {
-  "name": "mern-simplesetup",
+  "name": "mern-setup",
   "version": "2.0.0",
-  "description": "A quick check for your MERN stack installation",
-  "author": "Shama Hoque",
+  "description": "MERN stack installation",
+  "author": "Mo Aslam",
   "license": "MIT",
   "keywords": [
     "react",

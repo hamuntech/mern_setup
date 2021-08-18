@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-simplesetup.git"
+    "url": "https://github.com/hamuntech/mern_setup.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-simplesetup",
+  "homepage": "https://hamuntech.github.io/MERN-Dev-Setup/",
   "main": "template.js",
   "scripts": {
     "dev": "nodemon",
